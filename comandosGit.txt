@@ -1,0 +1,4 @@
+Hacer push
+-git add .
+-git commit -m " "comandosGit.txt
+-git push
