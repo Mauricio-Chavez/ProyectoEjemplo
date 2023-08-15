@@ -1,12 +1,17 @@
 /* styles.css */
-body {
+header {
     background-color: lightgray;
     font-family: Arial, sans-serif;
 }
 h1 {
     color: blue;
+    text-align: center;
 }
 
 p {
     color: green;
+}
+
+b {
+    color: red;
 }
