@@ -1,17 +1,26 @@
-/* styles.css */
-header {
-    background-color: lightgray;
-    font-family: Arial, sans-serif;
-}
-h1 {
-    color: blue;
-    text-align: center;
-}
 
-p {
-    color: green;
+* {
+    background-color: rgb(68, 68, 68);
+    font-family: poppins,sans-serif;
 }
-
 b {
-    color: red;
+    color: rgb(255, 255, 255);
+}
+h2 {
+    color: rgb(43, 214, 226);
+}
+h1{
+    text-align: center;
+    color: white;
+}
+p {
+    color: darkblue;
+}
+.projects-box{
+    width: 100%px;
+    height: 400px;
+    color: white;
+}
+a {
+    color: rgb(43, 214, 226);
 }
